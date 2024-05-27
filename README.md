@@ -1,3 +1,5 @@
 # Example Git Repository
 
 We are learning how to make comits.
+
+Goodbye
